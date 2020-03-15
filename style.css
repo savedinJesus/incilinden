@@ -1,0 +1,25 @@
+body, html{
+	font-family: Roboto, monospace;
+}
+
+.main, section{
+	width: 80%;
+	margin: 0px auto;
+}
+
+.divider{
+	margin-bottom: 20px !important;
+}
+
+p{
+	font-size: 15px;
+}
+
+h2, h1{
+	font-size: 18px;
+	color: #b71c1c;
+}
+
+h1{
+	color: #856404;
+}
